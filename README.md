@@ -1,4 +1,4 @@
-# Tugas 4 PCD — Filtering, Noise Reduction & Sharpening untuk OCR Nomor Ijazah
+# Tugas 5 PCD — Filtering, Noise Reduction & Sharpening untuk OCR Nomor Ijazah
 
 Membandingkan **Mean**, **Median**, **Gaussian filter** dan **Sharpening (unsharp mask)** sebagai tahap
 pra-pemrosesan OCR (Tesseract) pada 9 variasi citra ijazah, plus eksperimen tambahan noise *salt-and-pepper*.
