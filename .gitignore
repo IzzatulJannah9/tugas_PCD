@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# Foto ijazah asli berisi data pribadi -> jangan di-commit
+data/raw/*
+!data/raw/.gitkeep

@@ -1,0 +1,324 @@
+{
+  "main": {
+    "image1": {
+      "Original": {
+        "ocr": ". Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "! Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Median Filter": {
+        "ocr": "Noma: yazah $7101 202200 1986",
+        "correct": 11,
+        "total": 15,
+        "accuracy": 73.33
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Sharpening": {
+        "ocr": ". Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "image2": {
+      "Original": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor ijazah: $7101 2022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Median Filter": {
+        "ocr": "Namor pagah. $7J912022000086",
+        "correct": 11,
+        "total": 15,
+        "accuracy": 73.33
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Sharpening": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      }
+    },
+    "image3": {
+      "Original": {
+        "ocr": "Nomor sazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor yjazah: 57 1012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Median Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor tjazah: 57 1012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Sharpening": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "image4": {
+      "Original": {
+        "ocr": ": Nomor iazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor syazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Median Filter": {
+        "ocr": "Nomor yazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Sharpening": {
+        "ocr": ": Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "image5": {
+      "Original": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Median Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Sharpening": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "image6": {
+      "Original": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Median Filter": {
+        "ocr": "Nomor sjacah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Sharpening": {
+        "ocr": "___ Nomor jazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      }
+    },
+    "image7": {
+      "Original": {
+        "ocr": "Nomor yazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor ijazah: $7 1012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Median Filter": {
+        "ocr": "Nomor yazah. 57 1012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Sharpening": {
+        "ocr": "Nomor yazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "image8": {
+      "Original": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Median Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Sharpening": {
+        "ocr": "- Nomor yazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "image9": {
+      "Original": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Mean Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Median Filter": {
+        "ocr": "Nomor yazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "Gaussian Filter": {
+        "ocr": "Nomor ijazah: $71012022000056",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.33
+      },
+      "Sharpening": {
+        "ocr": "Nomor ijazah: 571012022000056",
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    }
+  },
+  "salt_pepper": {
+    "Noisy": {
+      "ocr": "",
+      "correct": 0,
+      "total": 15,
+      "accuracy": 0.0
+    },
+    "Mean Filter": {
+      "ocr": "",
+      "correct": 0,
+      "total": 15,
+      "accuracy": 0.0
+    },
+    "Median Filter": {
+      "ocr": "Nomor ijazah: 571012022000056",
+      "correct": 15,
+      "total": 15,
+      "accuracy": 100.0
+    },
+    "Gaussian Filter": {
+      "ocr": "",
+      "correct": 0,
+      "total": 15,
+      "accuracy": 0.0
+    },
+    "Median + Sharpening": {
+      "ocr": "Nomor ijazah: 571012022000056",
+      "correct": 15,
+      "total": 15,
+      "accuracy": 100.0
+    }
+  }
+}
